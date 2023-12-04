@@ -14,7 +14,7 @@ The Image Search App is a web application that allows users to search and discov
 
 ## Frontend HTML CSS and JavaScript.
 
-Integration URL for fetching image search results.(https://api.unsplash.com/search/photos?page=page&query=inputData&client_id=accessKey)
+Integration URL for fetching image search results.(https://unsplash.com/oauth/applications/536357)
 
 API key access in this app
 
@@ -41,4 +41,4 @@ Contributions are welcome! Please follow the guidelines in CONTRIBUTING.md.
 This project is licensed under the MIT License.
 
 # Acknowledgments
-https://unsplash.com/oauth/applications/536357: Thanks for providing the image search API.
+https://unsplash.com/developers: Thanks for providing the image search API.
